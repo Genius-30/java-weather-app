@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="splash_upper">#87CEEB</color>
+    <color name="splash_mid">#3498db</color>
+    <color name="splash_lower">#2c3e50</color>
+
+    <color name="clear_upper">#87CEEB</color>
+    <color name="clear_lower">#ffffff</color>
+    
+    <color name="cloudy_upper">#B0BEC5</color>
+    <color name="cloudy_lower">#ffffff</color>
+    
+    <color name="rainy_upper">#4FC3F7</color>
+    <color name="rainy_lower">#616161</color>
+
+    <color name="snowy_upper">#ffffff</color>
+    <color name="snowy_lower">#B3E0F2</color>
+    
+    <color name="storm_upper">#263238</color>
+    <color name="storm_lower">#42A5F5</color>
+    
+    <color name="mist_fog_upper">#B0BEC5</color>
+    <color name="misty_fog_lower">#ADD8E6</color>
+
+    <color name="haze_upper">#D3D3D3</color>
+    <color name="haze_lower">#ffffff</color>
+
+    <color name="neutral_upper">#E0E8F0</color>
+    <color name="neutral_lower">#D3D3D3</color>
+
+    <color name="smoke_upper">#B0B0B0</color>
+    <color name="smoke_lower">#D3D3D3</color>
+
+</resources>
